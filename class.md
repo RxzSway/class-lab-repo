@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Brian(Ricky) Swasey Jr  
+- Certification: Meta Android developer certification  
 
 ## Instructions
 Please replace the placeholders with your details:
